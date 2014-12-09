@@ -1,3 +1,5 @@
+Dockerfile to build Atom editor, which is based on Ubuntu 14.10
+
 # Prerequisites
 
 * Docker
